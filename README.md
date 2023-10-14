@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meh-work" alt="meh-work" /></a> </p>
 <img align="right" display="flex-inline" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"/>
 
-- 🔭 I’m currently working on **Baatein Karo(a real-time chat application**
+- 🔭 I’m currently working on **Baatein-Karo(a real-time chat application)**
 
 - 🌱 I’m currently learning **Three.js**
 
