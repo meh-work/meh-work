@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently working on **Baatein-Karo(a real-time chat application)**
 
-- 🌱 I’m currently learning **Three.js**
-
 - 👯 I’m looking to collaborate on **MERN stack projects**
 
 - 💬 Ask me about **MERN**
